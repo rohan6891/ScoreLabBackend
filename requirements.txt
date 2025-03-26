@@ -1,0 +1,6 @@
+google-cloud-storage
+google-cloud-documentai
+google-cloud-bigquery
+google-cloud-pubsub
+functions-framework
+google-generativeai
